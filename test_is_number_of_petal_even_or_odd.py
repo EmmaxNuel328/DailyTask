@@ -13,4 +13,4 @@ class TestIsNumberOfPetalsEvenOrOdd(unittest.TestCase):
 		self.assertEqual(actual1,expected1)
 		self.assertEqual(actual2,expected2)
 		self.assertEqual(actual3,expected3)
-	def test_that_number_of_petals
+
